@@ -2,6 +2,7 @@
   "name": "cityviewer",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://mrfcoelho.github.io/cityViewer/",
   "type": "module",
   "scripts": {
     "dev": "vite",
